@@ -30,7 +30,6 @@
         <a
           href="https://shubhamgupta96910.github.io/Form-validator/"
           target="_blank"
-          rel="noopener noreferrer"
           >Click Here!</a
         >
       </th>
